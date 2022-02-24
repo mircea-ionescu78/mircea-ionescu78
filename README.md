@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   LinkedIn: https://www.linkedin.com/in/mircea-ionescu78/
+  <br>
   Twitter: https://twitter.com/petpet_78
   Website: https://mircea.woodenboxstudios.me/
 </p>
