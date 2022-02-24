@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development with PHP and JavaScript.
 - 📫 How to reach me: https://mircea.woodenboxstudios.me/
 
-<h1 align="center">Hi 👋, I'm Mircea Ionescu</h1>
+<h1 align="center">Hi, I'm Mircea Ionescu</h1>
 <h3 align="center">College student, web developer and software developer based in Bristol, UK</h3>
 
 <h3 align="left">Connect with me:</h3>
